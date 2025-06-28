@@ -1,5 +1,5 @@
-# Ask user to enter something
+# Ask the user for input
 user_input = input("Enter something: ")
 
-# Print what the user entered
+# Print back what the user entered
 print("You said:", user_input)
