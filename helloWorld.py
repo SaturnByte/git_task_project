@@ -1,5 +1,5 @@
-# Ask user to enter something
-user_input = input("Enter something: ")
+# Ask the user for input
+message = input("Enter something: ")
 
-# Print what the user entered
-print("You said:", user_input)
+# Print back what the user entered
+print("You said:", message)
